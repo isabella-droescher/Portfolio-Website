@@ -48,9 +48,9 @@ UI/UX Design · Frontend Development · Responsive Design
 * Optimierte Darstellung für unterschiedliche Endgeräte
 
 
-## **Design Screens**
+# **Design Screens**
 
-### Startseite
+## Startseite
 
 Klare Einstiegsseite mit Fokus auf Übersichtlichkeit und intuitive Navigation
 
@@ -58,20 +58,20 @@ Klare Einstiegsseite mit Fokus auf Übersichtlichkeit und intuitive Navigation
 
 
 
-### Projektübersicht (Ausschnitt)
+## Projektübersicht (Ausschnitt)
 
 Strukturierte Darstellung ausgewählter Projekte und Technologien.
 
 <img width="439" height="371" alt="Bildschirmfoto 2026-05-14 um 21 24 19" src="https://github.com/user-attachments/assets/75173c49-8718-43c5-a0c8-407b96d86fee" />
 
 
-### Responsive Mobile Ansicht
+## Responsive Mobile Ansicht
 
 Optimierte mobile Darstellung mit angepasster Navigation und Layoutstruktur.
 
 <img width="403" height="600" alt="Mobile-Ansicht" src="https://github.com/user-attachments/assets/c1f3968b-3f15-4c4a-8579-3a9f1ca016e1" />
 
 
-## **Wichtige Erkenntnisse**
+### **Wichtige Erkenntnisse**
 
 Ein reduziertes UI und eine klare Informationsstruktur verbessern sowohl die Nutzerführung als auch die Wahrnehmung technischer Inhalte deutlich.
